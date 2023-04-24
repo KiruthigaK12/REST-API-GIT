@@ -1,0 +1,21 @@
+package com.example.demo.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.example.demo.day5.carModel;
+import com.example.demo.repo.carRepository;
+
+@Service
+public class service {
+	@Autowired
+	public carRepository obj;
+	public carModel saveInfo(@RequestBody carModel obj1)
+	{
+		return obj.save(obj1);
+		
+		
+	}
+
+}

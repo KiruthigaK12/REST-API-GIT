@@ -1,0 +1,312 @@
+2023-04-21 21:10:20,688 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 21:16:18,782 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplication:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\pom.xml.
+2023-04-21 21:16:20,010 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplication/src/main/java
+2023-04-21 21:16:20,010 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplication/src/main/resources
+2023-04-21 21:16:20,015 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplication/src/main/resources
+2023-04-21 21:16:20,019 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplication/src/test/java
+2023-04-21 21:16:21,643 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-04-21 21:16:21,649 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-21 21:16:22,035 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplication:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\pom.xml.
+2023-04-21 21:16:22,922 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplication/src/main/java
+2023-04-21 21:16:22,923 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplication/src/main/resources
+2023-04-21 21:16:22,924 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplication/src/main/resources
+2023-04-21 21:16:22,925 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplication/src/test/java
+2023-04-21 21:16:23,711 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-21 21:16:24,534 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:16:24,561 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:16:24,568 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:17:10,931 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:17:10,940 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:17:10,948 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:25:06,277 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:25:06,289 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:25:06,294 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:25:09,564 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:25:09,585 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:25:09,588 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:27:27,652 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:27:27,657 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:27:27,660 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:32:10,631 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 21:32:32,893 [Worker-16: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:32:32,910 [Worker-16: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:32:32,917 [Worker-16: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:33:42,545 [Worker-8: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:33:42,558 [Worker-8: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:33:42,568 [Worker-8: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:34:14,723 [Worker-15: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:34:14,731 [Worker-15: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:34:14,735 [Worker-15: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:37:04,886 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:37:04,894 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:37:04,900 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:37:19,835 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:37:19,845 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:37:19,851 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:37:39,085 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:37:39,092 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:37:39,098 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:38:37,849 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:38:37,856 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:38:37,863 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:39:06,637 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:39:06,646 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:39:06,655 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:39:44,799 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:39:44,805 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:39:44,814 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:40:20,770 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:40:20,775 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:40:20,779 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:40:26,997 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:40:27,002 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:40:27,007 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:40:42,468 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:40:42,475 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:40:42,481 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:41:26,567 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:41:26,576 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:41:26,580 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:42:04,967 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:42:04,979 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:42:04,982 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:42:36,018 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:42:36,025 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:42:36,031 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:43:08,822 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:43:08,826 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:43:08,830 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:47:05,863 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:47:05,870 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:47:05,874 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:51:45,979 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:51:45,982 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:51:45,984 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:54:21,178 [Worker-11: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:54:21,200 [Worker-11: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:54:21,214 [Worker-11: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 21:56:07,751 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 21:56:07,755 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 21:56:07,758 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 22:01:32,820 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-21 22:01:32,827 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-21 22:01:32,831 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-21 22:01:45,441 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 22:02:22,355 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-22 09:40:03,500 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-22 10:46:24,499 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplicationYouTube-2:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-2\pom.xml.
+2023-04-22 10:46:26,497 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/main/java
+2023-04-22 10:46:26,498 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:26,504 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:26,508 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/test/java
+2023-04-22 10:46:27,035 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-04-22 10:46:27,041 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-22 10:46:27,465 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplicationYouTube-2:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-2\pom.xml.
+2023-04-22 10:46:28,296 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/main/java
+2023-04-22 10:46:28,296 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:28,297 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:28,298 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/test/java
+2023-04-22 10:46:29,036 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-22 10:46:29,251 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-22 10:46:29,631 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplicationYouTube-2:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-2\pom.xml.
+2023-04-22 10:46:30,372 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/main/java
+2023-04-22 10:46:30,372 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:30,373 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-2/src/main/resources
+2023-04-22 10:46:30,374 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-2/src/test/java
+2023-04-22 10:46:30,817 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-22 10:46:32,160 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 10:46:32,188 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 10:46:32,195 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-22 10:46:32,814 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 10:46:32,842 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 10:46:32,850 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-2\src\test\resources
+2023-04-22 10:58:20,591 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 10:58:20,620 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 10:58:20,629 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-22 10:58:33,613 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 10:58:33,624 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 10:58:33,630 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-22 10:59:44,711 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplicationYouTube-3:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-3\pom.xml.
+2023-04-22 10:59:48,159 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26.pom
+2023-04-22 10:59:48,590 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26.pom
+2023-04-22 10:59:48,767 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar
+2023-04-22 10:59:51,714 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar
+2023-04-22 10:59:51,989 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-3/src/main/java
+2023-04-22 10:59:51,990 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-3/src/main/resources
+2023-04-22 10:59:51,994 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-3/src/main/resources
+2023-04-22 10:59:51,998 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-3/src/test/java
+2023-04-22 10:59:52,526 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-04-22 10:59:52,529 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-22 10:59:52,828 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:databaseApplicationYouTube-3:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-3\pom.xml.
+2023-04-22 10:59:53,148 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26-sources.jar
+2023-04-22 10:59:53,513 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-3/src/main/java
+2023-04-22 10:59:53,514 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-3/src/main/resources
+2023-04-22 10:59:53,514 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databaseApplicationYouTube-3/src/main/resources
+2023-04-22 10:59:53,515 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databaseApplicationYouTube-3/src/test/java
+2023-04-22 10:59:54,175 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.26/lombok-1.18.26-sources.jar
+2023-04-22 10:59:54,179 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.26
+2023-04-22 10:59:54,197 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-22 10:59:55,276 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 10:59:55,298 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 10:59:55,304 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-3\src\test\resources
+2023-04-22 11:11:16,593 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-22 11:11:16,598 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-22 11:11:16,602 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplicationYouTube-3\src\test\resources
+2023-04-23 17:13:23,665 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springExample-1:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\pom.xml.
+2023-04-23 17:13:24,670 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springExample-1/src/main/java
+2023-04-23 17:13:24,672 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springExample-1/src/main/resources
+2023-04-23 17:13:24,681 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springExample-1/src/main/resources
+2023-04-23 17:13:24,687 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springExample-1/src/test/java
+2023-04-23 17:13:25,451 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-04-23 17:13:25,457 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-23 17:13:26,005 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springExample-1:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\pom.xml.
+2023-04-23 17:13:26,622 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springExample-1/src/main/java
+2023-04-23 17:13:26,623 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springExample-1/src/main/resources
+2023-04-23 17:13:26,623 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springExample-1/src/main/resources
+2023-04-23 17:13:26,624 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springExample-1/src/test/java
+2023-04-23 17:13:27,062 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-23 17:13:27,427 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-23 17:13:27,479 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-23 17:13:27,488 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-23 17:13:27,857 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-23 17:13:27,890 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-23 17:13:27,897 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-23 17:13:31,284 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-23 17:13:31,352 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-23 17:13:31,358 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-23 17:14:40,415 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-23 17:14:40,426 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-23 17:14:40,430 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-23 17:19:03,508 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-23 17:19:03,516 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-23 17:19:03,520 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 05:59:46,230 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 06:01:00,328 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:01:00,375 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:01:00,387 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:05:08,014 [Worker-2: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:05:08,042 [Worker-2: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:05:08,054 [Worker-2: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:07:43,904 [Worker-18: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:07:43,914 [Worker-18: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:07:43,922 [Worker-18: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:08:48,987 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:08:48,989 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:08:49,002 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:09:16,882 [Worker-10: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:09:16,908 [Worker-10: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:09:16,919 [Worker-10: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:09:34,029 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:09:34,030 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:09:34,039 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:11:15,528 [Worker-13: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:11:15,544 [Worker-13: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:11:15,553 [Worker-13: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:12:43,479 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:12:43,507 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:12:43,519 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 06:20:54,656 [Worker-17: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 06:20:54,680 [Worker-17: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 06:20:54,685 [Worker-17: Launching springExample-1 - SpringExample1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 09:46:47,974 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 10:05:34,033 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springDataBaseApplication:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication\pom.xml.
+2023-04-24 10:05:35,283 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication/src/main/java
+2023-04-24 10:05:35,283 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication/src/main/resources
+2023-04-24 10:05:35,287 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication/src/main/resources
+2023-04-24 10:05:35,290 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication/src/test/java
+2023-04-24 10:05:35,655 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-04-24 10:05:35,659 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-24 10:05:35,980 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springDataBaseApplication:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication\pom.xml.
+2023-04-24 10:05:36,652 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication/src/main/java
+2023-04-24 10:05:36,652 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication/src/main/resources
+2023-04-24 10:05:36,653 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication/src/main/resources
+2023-04-24 10:05:36,654 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication/src/test/java
+2023-04-24 10:05:37,266 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-24 10:05:37,789 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:05:37,809 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:05:37,814 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication\src\test\resources
+2023-04-24 10:05:38,741 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:05:38,757 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:05:38,762 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springExample-1\src\test\resources
+2023-04-24 10:06:15,392 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:06:15,404 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:06:15,412 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication\src\test\resources
+2023-04-24 10:36:42,981 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:36:43,019 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:36:43,025 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 10:36:50,500 [Worker-26: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:36:50,508 [Worker-26: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:36:50,512 [Worker-26: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 10:49:29,484 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 10:49:29,491 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 10:49:29,495 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:21:48,369 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:21:48,463 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:21:48,467 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:25:18,770 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:25:18,778 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:25:18,784 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:25:37,358 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:25:37,374 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:25:37,379 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:25:41,872 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:25:41,878 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:25:41,883 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:25:44,077 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:25:44,084 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:25:44,090 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:47:40,952 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:47:40,977 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:47:40,981 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 12:47:44,407 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:47:44,436 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:47:44,443 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 13:43:21,782 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 13:43:21,793 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 13:43:21,801 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 13:43:29,976 [Worker-59: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 13:43:29,985 [Worker-59: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 13:43:29,989 [Worker-59: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 14:15:13,421 [Worker-67: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springDataBaseApplication_Review:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\pom.xml.
+2023-04-24 14:15:14,358 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication_Review/src/main/java
+2023-04-24 14:15:14,359 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication_Review/src/main/resources
+2023-04-24 14:15:14,364 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication_Review/src/main/resources
+2023-04-24 14:15:14,369 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication_Review/src/test/java
+2023-04-24 14:15:15,018 [Worker-67: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-04-24 14:15:15,021 [Worker-67: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-24 14:15:15,354 [Worker-67: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springDataBaseApplication_Review:0.0.1-SNAPSHOT @ C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\pom.xml.
+2023-04-24 14:15:16,291 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication_Review/src/main/java
+2023-04-24 14:15:16,291 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication_Review/src/main/resources
+2023-04-24 14:15:16,292 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springDataBaseApplication_Review/src/main/resources
+2023-04-24 14:15:16,292 [Worker-67: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springDataBaseApplication_Review/src/test/java
+2023-04-24 14:15:16,745 [Worker-67: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-24 14:15:17,207 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 14:15:17,227 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 14:15:17,232 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\src\test\resources
+2023-04-24 14:16:13,540 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 14:16:13,571 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 14:16:13,578 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\src\test\resources
+2023-04-24 14:34:41,190 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 14:34:41,207 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 14:34:41,211 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\src\test\resources
+2023-04-24 14:35:08,507 [Worker-72: Launching springDataBaseApplication_Review - SpringDataBaseApplicationReviewApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 14:35:08,515 [Worker-72: Launching springDataBaseApplication_Review - SpringDataBaseApplicationReviewApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 14:35:08,520 [Worker-72: Launching springDataBaseApplication_Review - SpringDataBaseApplicationReviewApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\src\test\resources
+2023-04-24 14:40:11,250 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 14:40:11,256 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 14:40:11,261 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\springDataBaseApplication_Review\src\test\resources
+2023-04-24 15:16:01,899 [Worker-84: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:16:01,953 [Worker-84: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:16:01,959 [Worker-84: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 15:16:37,777 [Worker-90: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:16:37,786 [Worker-90: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:16:37,795 [Worker-90: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 15:17:02,093 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:17:02,098 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:17:02,103 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 15:45:55,282 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:45:55,305 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:45:55,313 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources
+2023-04-24 15:46:19,410 [Worker-97: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:46:19,439 [Worker-97: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:46:19,445 [Worker-97: Launching databaseApplication - DatabaseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\yasod\OneDrive\Desktop\REST API GIT\databaseApplication\src\test\resources

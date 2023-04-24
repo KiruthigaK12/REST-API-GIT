@@ -1,0 +1,5 @@
+package carRepo;
+
+public interface carRepository {
+
+}
