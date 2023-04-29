@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.day5.carModel;
+import com.example.demo.repo.carRepository;
 import com.example.demo.service.service;
 
 @RestController
@@ -52,7 +53,45 @@ public class carController {
 		obj2.deleteInfo(cid);
 		return " cid number"+cid+"is deleted";
 	}
+	@GetMapping("/sortData/{pna}")
+	public List<carModel> sortVote(@PathVariable("pna") String pvote)
+	{
+		return obj2.sortData(pvote);
+	}
+	//pagination
 	
+		@GetMapping("/pagination/{pageno}/{pagesize}")
+		//pageno starts with 0
+		
+		public List<carModel> page(@PathVariable("pageno") int pageno,@PathVariable("pagesize") int pagesize){
+			return obj2.pagination(pageno, pagesize);
+		}
+		//JPQL
+		@Autowired
+		
+		public carRepository ir;
+		@GetMapping("/hii")
+		public List<carModel>getD()
+		{
+		    return ir.getAllData();
+		}
+		@GetMapping("/find/{id}")
+		public List<carModel>getData(@PathVariable("id")int pid)
+		{
+			return ir.bycarName(pid);
+		}
+		@GetMapping("get1/{start}/{end}")
+		public List<carModel>getStartEnd(@PathVariable("start") int start,@PathVariable("end") int end)
+		{
+			      return ir.byStartEnd(start, end);
+	    }
+		
+	@DeleteMapping("/dell/{id}/{name}")
+	public String deletecar(@PathVariable("id")int id,@PathVariable("name") String name)
+	{
+		ir.deleteId(id, name);
+		return "deleted";
+	}
 	
 	
 	

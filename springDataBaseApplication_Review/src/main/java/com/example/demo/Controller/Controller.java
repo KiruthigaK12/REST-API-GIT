@@ -46,8 +46,4 @@ public class Controller {
 		obj2.deleteInfo(voteId);
 		return " cid number"+voteId+"is deleted";
 	}
-	
-		
-	
-
 }

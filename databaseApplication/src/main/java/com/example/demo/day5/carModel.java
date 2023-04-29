@@ -2,6 +2,7 @@ package com.example.demo.day5;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import jakarta.persistence.Transient;
 
 @Entity
 @Table(name="car")
@@ -10,6 +11,7 @@ public class carModel {
 	private int cid;
 	private String carname;
 	private String carmodel;
+	@Transient
 	private int  year;
 	private String color;
 	private String bodystyle;
