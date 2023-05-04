@@ -16,10 +16,13 @@ import com.example.demo.day5.carModel;
 import com.example.demo.repo.carRepository;
 import com.example.demo.service.service;
 
+import io.swagger.v3.oas.annotations.tags.Tag;
+
 @RestController
 public class carController {
 	@Autowired
 	public service obj2;
+	@Tag(name="post data",description="insertdetails")
 	@PostMapping("/savecar1")                 
 	public carModel addDetails(@RequestBody carModel obj3)
 	{
@@ -86,12 +89,12 @@ public class carController {
 			      return ir.byStartEnd(start, end);
 	    }
 		
-	@DeleteMapping("/dell/{id}/{name}")
-	public String deletecar(@PathVariable("id")int id,@PathVariable("name") String name)
-	{
+	 @DeleteMapping("/dell/{id}/{name}")
+	 public String deletecar(@PathVariable("id")int id,@PathVariable("name") String name)
+	 {
 		ir.deleteId(id, name);
 		return "deleted";
-	}
+	 }
 	
 	
 	

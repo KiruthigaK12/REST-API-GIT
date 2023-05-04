@@ -46,6 +46,25 @@ public class service {
 		 Page<Poll_Model> p =obj.findAll(PageRequest.of(pageno, pagesize));
 		return p.getContent();					
 		}
+	     
+	     //both pagination and sorting
+	     public List<Poll_Model>paginationAndSorting(int pageno,int pagesize,String pname)
+	     {
+	    	 Page<Poll_Model>p=obj.findAll(PageRequest.of(pageno,pagesize,Sort.by(pname).descending()));
+	    	 return p.getContent();
+	     }
+	     //NATIVE QUERY 3 LIKE OPERATOR
+	     public List<Poll_Model>readLine1Contains(String addressLike){
+	     
+	    	 return obj.findByAddLineContains(addressLike);
+	     }
+	     //JPQL-1 DELETE QUERY
+	    // @Transactional
+	     //public int deletepollBytitle(String poll_title)
+	     //{
+	    	//return obj.deletepollBytitle(poll_title);
+	    // }
+	
 	
 
 }

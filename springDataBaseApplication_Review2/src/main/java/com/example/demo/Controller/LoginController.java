@@ -1,3 +1,4 @@
+
 package com.example.demo.Controller;
 import java.util.List;
 import java.util.Map;
@@ -9,6 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.Service.LoginService;
 import com.example.demo.pollmodel.UserModel;
+
+import io.swagger.v3.oas.annotations.tags.Tag;
 @RestController
 @RequestMapping("/user")
 public class LoginController {
@@ -16,6 +19,7 @@ public class LoginController {
 	@Autowired
 	private LoginService lser;
 	//To log in:
+	@Tag(name="Login",description="To login with the details")
 	@PostMapping("/login")
 	public String login(@RequestBody Map<String,String>loginData)
 	{
@@ -45,7 +49,6 @@ public class LoginController {
 		String newPassword = resetData.get("newPassword");
 		
 		String result = lser.resetPassword(username, Password, newPassword);
-		
 		return result;
 	}
     

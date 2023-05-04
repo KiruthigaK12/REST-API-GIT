@@ -52,18 +52,18 @@ public class LoginService {
 			
 			return "Password reset successful";
 		}
-	public List<UserModel> getUser1()
-	{
+	  public List<UserModel> getUser1()
+	  {
 	  return obj.findAll();
-	}
-	public UserModel addUser(UserModel cl)
-	{
+	  }
+	  public UserModel addUser(UserModel cl)
+	  {
 		return obj.save(cl);
-	}
-	public List<UserModel> getUser()
-	{
+	  }
+	 public List<UserModel> getUser()
+	 {
 		return obj.findAll();
-	}
+	  }
 	
 
   
