@@ -89,6 +89,7 @@ public class PollController {
 		}
 		
 		
+		
 		@PutMapping("updatee/{pid}/{pname}")
 		public void updateQue(@PathVariable("pid")int pid,@PathVariable("pname") String pname)
 		{
@@ -108,17 +109,6 @@ public class PollController {
         	return "deleted";
         }
        
-        //JPQL1-->delete query
-        //@DeleteMapping("/deletemapping1/{poll_title}")
-        //public String deletepollBytitle(@PathVariable("poll_title") String poll_title)
-        //{
-        	//int result=obj2.deletepollBytitle(poll_title);
-        	//if(result>0)
-               //return "poll record is deleted";
-               //else
-        	  //return "no record found";
-       // }
-        //JPQL
         @Tag(name="JPQL",description="by select ")
         @GetMapping("jp")
         public List <Poll_Model> jpqlQuery()
