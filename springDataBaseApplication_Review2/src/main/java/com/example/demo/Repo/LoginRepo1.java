@@ -6,6 +6,6 @@ import com.example.demo.pollmodel.UserModel;
 
 public interface LoginRepo1 extends JpaRepository<UserModel, Integer> 
 {
-	UserModel findByusername(String username);
+	UserModel findByusername(String email);
 
 }
